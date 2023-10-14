@@ -38,4 +38,5 @@ Event log (306,648 events x 4 fields)
 - reward: (numeric) Money gained from "offer completed"
 - time: (numeric) Hours after the start of the test
 
+Blog : https://medium.com/@trandangtin91/starbucks-capstone-challenge-50e0b61682a8
 Source: [Udacity Nano Program: Data Scientist](https://www.udacity.com/course/data-scientist-nanodegree--nd025?utm_source=gsem_brand&utm_medium=ads_r&utm_campaign=12908932988_c_individuals&utm_term=124509203711&utm_keyword=%2Budacity%20%2Bdata%20%2Bscience_b&gclid=Cj0KCQjwxtSSBhDYARIsAEn0thQ37yvP0P4SRAW7XaiasAdiTOYFe-IfkrDUAbPxQNuZ_05CUs6ukj0aAlT-EALw_wcB)
