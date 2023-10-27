@@ -59,5 +59,10 @@ These libraries are used for various tasks, including data manipulation, visuali
 Blog : https://medium.com/@trandangtin91/starbucks-capstone-challenge-50e0b61682a8
 
 **File Description**
+- Udacity_DS_Pj3/Capstone Project.ipynb : Source code for data discovery and ML model processing
+- Udacity_DS_Pj3/README.md : Summary for mainpoint technical
+- Udacity_DS_Pj3/data/portfolio.json 
+- Udacity_DS_Pj3/data/profile.json 
+- Udacity_DS_Pj3/data/transcript.json
 
 Source: [Udacity Nano Program: Data Scientist](https://www.udacity.com/course/data-scientist-nanodegree--nd025?utm_source=gsem_brand&utm_medium=ads_r&utm_campaign=12908932988_c_individuals&utm_term=124509203711&utm_keyword=%2Budacity%20%2Bdata%20%2Bscience_b&gclid=Cj0KCQjwxtSSBhDYARIsAEn0thQ37yvP0P4SRAW7XaiasAdiTOYFe-IfkrDUAbPxQNuZ_05CUs6ukj0aAlT-EALw_wcB)
